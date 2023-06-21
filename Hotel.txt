@@ -1,3 +1,4 @@
 "Taj Hotel" 
 "Machan Hotel" 
 "Sagar Ratna" 
+"The Imperial Green Nainital" 
