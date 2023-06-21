@@ -1,1 +1,3 @@
 "Taj Hotel" 
+"Machan Hotel" 
+"Sagar Ratna" 
